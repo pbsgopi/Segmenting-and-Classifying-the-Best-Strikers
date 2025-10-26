@@ -1,2 +1,3 @@
 # Segmenting-and-Classifying-the-Best-Strikers
-This project uses data analytics to analyze and understand striker performance. Through descriptive statistics, data visualization, feature engineering, and machine learning, it identifies key attributes influencing a striker’s success and classifies players into performance-based categories.
+## Purpose
+The primary purpose of this project is to provide a systematic framework for analyzing and categorizing strikers based on their performance metrics and personal attributes. By doing so, coaches, scouts, and football analysts can gain valuable insights into the characteristics of top-performing strikers and make informed decisions in team selection, recruitment, and strategic planning.
